@@ -1,162 +1,163 @@
 [
-    {
+  {
     "id": 1,
-    "title": "From newbie to veteran: Three methods of Cryptocurrency Analysis for successful trading",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "date": "October 20, 2023",
+    "title": "What Is Gossip About Gossip? Everything You Need To Know About Gossip About Gossip",
+    "description": "Gossip about gossip is an incredibly powerful tool for not only the blockchain technology, but also myriads of other fields like data science or computer science. At Unicorn Ultra, gossip about gossip is among the most important catalysts fueling our Helios Consensus Algorithm, helping us achieve an outstanding performance never seen before with up to 500,000 transactions per second (TPS) and 350 millisecond transaction finality time.",
+    "date": "October 18, 2023",
     "category": "General Information",
-    "thumbnail": "https://fakeimg.pl/400x200/ff0000,128/000,255"
-    },
-    {
+    "thumbnail": "https://uniultra.xyz/uploads/gossip-about-gossip.jpg",
+    "content": "<article class=\"detail-content\"><h6>Categories: <b class=\"text-green\">General Information</b> <i class=\"bi-dash\"></i></h6><h1>What Is Gossip About Gossip? Everything You Need To Know About Gossip About Gossip</h1><time>October 18, 2023 </time><hr class=\"hr_style\"><div class=\"summary\"><p>What Is <a href=\"../../blog/gossip-about-gossip\"><strong>Gossip About Gossip</strong></a>? How do nodes share information? Hashgraph employs gossip protocol for seamless data transmission and transaction consensus among network nodes.</p></div><div class=\"description\"><p><span style=\"font-weight: 400;\"><strong>Gossip about gossip</strong> is an incredibly powerful tool for not only the blockchain technology, but also myriads of other fields like data science or computer science. At Unicorn Ultra, gossip about gossip is among the most important catalysts fueling our Helios Consensus Algorithm, helping us achieve an outstanding performance never seen before with up to 500,000 transactions per second (TPS) and 350 millisecond transaction finality time.</span></p><div class=\"inline-related-post\"><span class=\"text-green\">Discover more:</span> <a href=\"https://uniultra.xyz/blog/what-is-lens-protocol\">What is Lens Protocol? Transforming the Landscape of Data Sharing</a></div><p><span style=\"font-weight: 400;\">In this article, we will give you a thorough introduction to gossip about gossip, thereby providing you a better understanding of our protocol, especially the Helios Consensus Algorithm.</span></p><div class=\"mce-toc\"><h6>Table of Contents</h6><ul><li><a href=\"#mcetoc_1hd09sstq12\">What is the gossip protocol?</a></li><li><a href=\"#mcetoc_1hd09sstq13\">What is gossip about gossip?</a></li></ul></div><h2 id=\"mcetoc_1hd09sstq12\"><strong>What is the gossip protocol?</strong></h2><p><strong><img title=\"gossip-about-gossip\" src=\"https://uniultra.xyz/uploads/gossip-about-gossip.jpg\" alt=\"gossip about gossip\" width=\"100%\" height=\"100%\"></strong></p><p><span style=\"font-weight: 400;\">Before diving into gossip about gossip, let’s first learn about gossip protocol.</span></p><p><span style=\"font-weight: 400;\">Blockchain technology is inherently a peer-to-peer (P2P) network. Essentially, a blockchain is a decentralized ledger that records transactions across a distributed network of “nodes”. Each node in the network is treated as an equal “peer”, with no central authority controlling the system. Instead, each peer is connected to another, forming a decentralized network of nodes that validate, verify, and publicize data themselves without requiring an intermediary.</span></p><div class=\"inline-related-post\"><span class=\"text-green\">Discover more:</span> <a href=\"https://uniultra.xyz/blog/top-games-on-the-near-protocol\">Exploring the Future of Blockchain Gaming - Top Games on the NEAR Protocol</a></div><p><span style=\"font-weight: 400;\"><img title=\"gossip-about-gossip-1\" src=\"https://uniultra.xyz/uploads/gossip-about-gossip-1.jpg\" alt=\"gossip about gossip 1\" width=\"100%\" height=\"100%\"></span></p><p><span style=\"font-weight: 400;\">In order to verify the integrity of these decentralized ledger networks, each node has to store the complete version of the ledger and constantly communicate with other nodes. This ensures that the correct version of the ledger is always available on each and every node. In case anything suddenly happens, any participant can easily verify and restore the original ledger. At the same time, the data will always be guaranteed to be trustful and up-to-date, even when some actors behave maliciously.</span></p><p><span style=\"font-weight: 400;\">This is when the difficulty arises. Storing the data of the ledger is one thing, but continually transferring these data across different nodes may pose some serious problems (e.g. bandwidth). Therefore, an effective data communication method is crucial in such a system. We would want an approach that allows a rapid pace of data transmission while still maintaining a high level of security in the process.</span></p><p><span style=\"font-weight: 400;\">This is when the gossip protocol comes into play. As the name suggests, a gossip protocol takes place when information is transmitted from one peer to another until it is eventually spread all across the network.</span></p><div class=\"inline-related-post\"><span class=\"text-green\">Discover more:</span> <a href=\"https://uniultra.xyz/blog/nft-rarity\">What is NFT rarity? Unveiling the Value of Digital Collectibles</a></div><p><span style=\"font-weight: 400;\">Let’s take a look at how this mechanism works via an example.</span></p><p><span style=\"font-weight: 400;\"><img title=\"gossip-about-gossip-2\" src=\"https://uniultra.xyz/uploads/gossip-about-gossip-2.jpg\" alt=\"gossip about gossip 2\" width=\"100%\" height=\"100%\"></span></p><p><span style=\"font-weight: 400;\">Imagine Alice wants to send data (a message in this case) to all other network participants. The arguably fastest yet secure way to do this is to spread the message to a random person. In this specific scenario, Alice sends the message to Dave.</span></p><p><span style=\"font-weight: 400;\"><img title=\"gossip-about-gossip-3\" src=\"https://uniultra.xyz/uploads/gossip-about-gossip-3.jpg\" alt=\"gossip about gossip 3\" width=\"100%\" height=\"100%\"></span></p><p><span style=\"font-weight: 400;\">Now, both Alice and Dave have the same message. They will both choose another random person to receive the message. Similarly, Alice sends the message to Gina while Dave sends the message to Bob. The process goes at an exponential rate, and after only 3 iterations, all 8 participants will have received the message.</span></p><p><span style=\"font-weight: 400;\"><img title=\"gossip-about-gossip-4\" src=\"https://uniultra.xyz/uploads/gossip-about-gossip-4.jpg\" alt=\"gossip about gossip 4\" width=\"100%\" height=\"100%\"></span></p><p><span style=\"font-weight: 400;\">This method of randomly assigning a receiver for the message is efficient in the sense that:</span></p><ul><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">It is simple yet really fast. The speed of messages being sent out is exponential.</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">There is no bottleneck. The interaction between participants is divided into separate pairs, meaning there cannot exist any interceptions between any peers to form bottlenecks.</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">It is still extremely safe, because in case any participants stop transferring the message, the message will still be transmitted out by other participants at an exponential velocity.</span></li></ul><p><span style=\"font-weight: 400;\">However, regardless of this approach being astonishingly speedy yet secure, there exists a problem with it: ordering.</span></p><p><span style=\"font-weight: 400;\">Let’s try to change the number of messages being sent from 1 to 3.</span></p><p><span style=\"font-weight: 400;\"><img title=\"gossip-about-gossip-5\" src=\"https://uniultra.xyz/uploads/gossip-about-gossip-5.jpg\" alt=\"gossip about gossip 5\" width=\"100%\" height=\"100%\"></span></p><p><span style=\"font-weight: 400;\">Now, the issue becomes apparent. Even though the messages are delivered to the whole network really fast, the order of those messages is confusing. Every participant has had the same set of messages, but how can the network reach a consensus on the messages’ time of arrival for each peer? This is troublesome because ordering matters a lot for most applications (for example, trading) in a financial market like crypto.</span></p><p><span style=\"font-weight: 400;\">The solution for this is an upgrade to “gossip about gossip”.</span></p><h2 id=\"mcetoc_1hd09sstq13\"><strong>What is gossip about gossip?</strong></h2><p><span style=\"font-weight: 400;\">Gossip about gossip takes an extra step from the original methodology. Instead of gossiping about the message to others, an individual will gossip about the whole history of all “events”. Upon completion of a gossip sync, each participating member commemorates the gossip sync with an event. An event is stored in memory as a data structure composed of a timestamp, an array of zero or more transactions, two parent hashes, and a cryptographic signature.&nbsp;</span></p><p><span style=\"font-weight: 400;\">As a result, in the gossiping process, the sender will deliver not only a single message or piece of information, but about everything that has happened on the ledger. In this way, the latest receiver will always have the fullest information, including the order of messages or the timestamp of any particular message.</span></p><p><span style=\"font-weight: 400;\">This technique is made possible by expressing the history of events via a “hashgraph” - a type of directed acyclic graph (DAG). The hashgraph is another Distributed Ledger Technology (DLT) like blockchain, which grows directionally over time as more “gossip syncs” take place and events are created (A gossip sync refers to the synchronization of information between two members through the gossip protocol). Similarly, all nodes in the network keep a local copy of the hashgraph which continues to update as the gossip goes on.</span></p><p><span style=\"font-weight: 400;\"><img title=\"gossip-about-gossip-6\" src=\"https://uniultra.xyz/uploads/gossip-about-gossip-6.jpg\" alt=\"gossip about gossip 6\" width=\"100%\" height=\"100%\"></span></p><p><strong>Conclusion</strong></p><p><span style=\"font-weight: 400;\">All and all, <strong>gossip about gossip</strong> is an exceptionally effective tool when it comes to data transmission/communication, arguably the fastest and safest way to.</span></p><p><span style=\"font-weight: 400;\">At Unicorn Ultra, we power our U2U Chain with gossip about gossip and hashgraph to efficiently communicate data between the nodes in our system, allowing us to achieve incredible results with performance. The productivity of these incredible mechanisms help us tremendously in reaching up to 500,000 transactions per seconds and 350 millisecond transaction finality time. Follow <a href=\"https://uniultra.xyz/\"><strong>U2U</strong></a> for more blockchain information.</span></p><p></p></div></article>"
+  },
+  {
     "id": 2,
     "title": "What Is Gossip About Gossip? Everything You Need To Know About Gossip About Gossip",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "date": "October 20, 2023",
     "category": "General Information",
     "thumbnail": "https://fakeimg.pl/400x200/ff0000,128/000,255"
-    },
-    {
+  },
+  {
     "id": 3,
     "title": "Unlocking the Benefits of U2U's Discord Roles: VIP vs. Super VIP",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "date": "October 20, 2023",
     "category": "General Information",
     "thumbnail": "https://fakeimg.pl/400x200/ff0000,128/000,255"
-    },
-    {
+  },
+  {
     "id": 4,
     "title": "Venture Builder model of U2U Chain: Increase speed and trust in transactions",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "date": "October 20, 2023",
     "category": "General Information",
     "thumbnail": "https://fakeimg.pl/400x200/ff0000,128/000,255"
-    },
-    {
+  },
+  {
     "id": 5,
     "title": "What are Software Development Kits (SDKs)? Top SDKs for the Blockchain masters",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "date": "October 20, 2023",
     "category": "General Information",
     "thumbnail": "https://fakeimg.pl/400x200/ff0000,128/000,255"
-    },
-    {
+  },
+  {
     "id": 6,
     "title": "From newbie to veteran: Three methods of Cryptocurrency Analysis for successful trading",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "date": "October 20, 2023",
     "category": "U2U Ecosystem",
     "thumbnail": "https://fakeimg.pl/400x200/ff0000,128/000,255"
-    },
-    {
+  },
+  {
     "id": 7,
     "title": "What Is Gossip About Gossip? Everything You Need To Know About Gossip About Gossip",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "date": "October 20, 2023",
     "category": "U2U Ecosystem",
     "thumbnail": "https://fakeimg.pl/400x200/ff0000,128/000,255"
-    },
-    {
+  },
+  {
     "id": 8,
     "title": "Unlocking the Benefits of U2U's Discord Roles: VIP vs. Super VIP",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "date": "October 20, 2023",
     "category": "U2U Ecosystem",
     "thumbnail": "https://fakeimg.pl/400x200/ff0000,128/000,255"
-    },
-    {
+  },
+  {
     "id": 9,
     "title": "Venture Builder model of U2U Chain: Increase speed and trust in transactions",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "date": "October 20, 2023",
     "category": "U2U Ecosystem",
     "thumbnail": "https://fakeimg.pl/400x200/ff0000,128/000,255"
-    },
-    {
+  },
+  {
     "id": 10,
     "title": "What are Software Development Kits (SDKs)? Top SDKs for the Blockchain masters",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "date": "October 20, 2023",
     "category": "U2U Ecosystem",
     "thumbnail": "https://fakeimg.pl/400x200/ff0000,128/000,255"
-    },
-    {
+  },
+  {
     "id": 11,
     "title": "From newbie to veteran: Three methods of Cryptocurrency Analysis for successful trading",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "date": "October 20, 2023",
     "category": "Announcements",
     "thumbnail": "https://fakeimg.pl/400x200/ff0000,128/000,255"
-    },
-    {
+  },
+  {
     "id": 12,
     "title": "What Is Gossip About Gossip? Everything You Need To Know About Gossip About Gossip",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "date": "October 20, 2023",
     "category": "Announcements",
     "thumbnail": "https://fakeimg.pl/400x200/ff0000,128/000,255"
-    },
-    {
+  },
+  {
     "id": 13,
     "title": "Unlocking the Benefits of U2U's Discord Roles: VIP vs. Super VIP",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "date": "October 20, 2023",
     "category": "Announcements",
     "thumbnail": "https://fakeimg.pl/400x200/ff0000,128/000,255"
-    },
-    {
+  },
+  {
     "id": 14,
     "title": "Venture Builder model of U2U Chain: Increase speed and trust in transactions",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "date": "October 20, 2023",
     "category": "Announcements",
     "thumbnail": "https://fakeimg.pl/400x200/ff0000,128/000,255"
-    },
-    {
+  },
+  {
     "id": 15,
     "title": "What are Software Development Kits (SDKs)? Top SDKs for the Blockchain masters",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "date": "October 20, 2023",
     "category": "Announcements",
     "thumbnail": "https://fakeimg.pl/400x200/ff0000,128/000,255"
-    },
-    {
+  },
+  {
     "id": 16,
     "title": "From newbie to veteran: Three methods of Cryptocurrency Analysis for successful trading",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "date": "October 20, 2023",
     "category": "Research",
     "thumbnail": "https://fakeimg.pl/400x200/ff0000,128/000,255"
-    },
-    {
+  },
+  {
     "id": 17,
     "title": "What Is Gossip About Gossip? Everything You Need To Know About Gossip About Gossip",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "date": "October 20, 2023",
     "category": "Research",
     "thumbnail": "https://fakeimg.pl/400x200/ff0000,128/000,255"
-    },
-    {
+  },
+  {
     "id": 18,
     "title": "Unlocking the Benefits of U2U's Discord Roles: VIP vs. Super VIP",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "date": "October 20, 2023",
     "category": "Research",
     "thumbnail": "https://fakeimg.pl/400x200/ff0000,128/000,255"
-    },
-    {
+  },
+  {
     "id": 19,
     "title": "Venture Builder model of U2U Chain: Increase speed and trust in transactions",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "date": "October 20, 2023",
     "category": "Research",
     "thumbnail": "https://fakeimg.pl/400x200/ff0000,128/000,255"
-    },
-    {
+  },
+  {
     "id": 20,
     "title": "What are Software Development Kits (SDKs)? Top SDKs for the Blockchain masters",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "date": "October 20, 2023",
     "category": "Research",
     "thumbnail": "https://fakeimg.pl/400x200/ff0000,128/000,255"
-    }
+  }
 ]
